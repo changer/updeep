@@ -8,10 +8,6 @@
     "url": "https://github.com/substantial/updeep"
   },
   "author": "Aaron Jensen",
-  "files": [
-    "dist"
-  ],
-  "main": "dist/index.js",
   "keywords": [
     "immutable",
     "frozen",
